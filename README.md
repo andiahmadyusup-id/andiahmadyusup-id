@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andi Ahmad Yusup
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
-- 📫 How to reach me @andiahmad.int@gmail.com
+- 🌱 I’m currently learning PHP Native
+- 📫 How to reach me andiahmad.int@gmail.com
 
 <!---
 andiahmadyusup-id/andiahmadyusup-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
